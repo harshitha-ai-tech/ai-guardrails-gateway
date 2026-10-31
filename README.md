@@ -179,6 +179,6 @@ Python, FastAPI, Uvicorn, LangChain with Google Gemini (free tier), python-doten
 
 ## Author
 
-Your Name · [GitHub profile](https://github.com/harshitha-ai-tech)
+[GitHub profile](https://github.com/harshitha-ai-tech)
 
 Built as a learning project on securing LLM applications. The ideas map to well-known LLM application risks such as prompt injection, sensitive information disclosure, and system prompt leakage (see the OWASP Top 10 for LLM Applications).
